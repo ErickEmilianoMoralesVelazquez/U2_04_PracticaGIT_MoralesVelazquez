@@ -5,3 +5,11 @@ commit 2
 commit 3 user1
 
 commit 4 user1
+
+commit 4 user2
+
+commit 5 user2
+
+commit 6 user2
+
+commit 7 user2
